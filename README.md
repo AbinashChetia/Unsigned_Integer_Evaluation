@@ -1,2 +1,4 @@
 # Unsigned Integer Evaluation
 This is a 32-bit MIPS architecture program that performs mathematical evaluation and solves the mathematical statement (A * B) + (C * D), where A, B, C and D are unsigned integers which are to be taken as input from the keyboard. This program consists of a function to take an unsigned integer as a string input and convert that string to the unsigned integer for further evaluation. It is done as such because normal syscall function for integer input facilitates only the signed integers. Moreover, it also consists of a function to implement 32 bit multiplication. Finally, the program displays the result both in decimal form (might show anomaly due to overflow) as well as hexadecimal form. The codes have been written (and executed) in the MARS Simulator.
+## Snapshot
+![alt text](https://github.com/AbinashChetia/Unsigned_Integer_Evaluation/blob/main/snapshot.png)
